@@ -1,0 +1,3 @@
+C:/Users/juanp/CLionProjects/ValidadorDeExpressoesMatematicas/cmake-build-debug/CMakeFiles/ValidadorDeExpressoesMatematicas.dir
+C:/Users/juanp/CLionProjects/ValidadorDeExpressoesMatematicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/juanp/CLionProjects/ValidadorDeExpressoesMatematicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
